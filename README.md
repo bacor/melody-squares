@@ -1,7 +1,7 @@
 Melody squares
 =============
 
-Data and code for the project "Melody squares", an interlude in my PhD thesis.
+Data and code for the project _Melody squares_, visualizing which melodic motifs can be found in a collection of melodies.
 
 ------
 
@@ -13,11 +13,18 @@ Data and code for the project "Melody squares", an interlude in my PhD thesis.
 
 **Abstract.** Melody squares visualize the melodic movements in melodies. It breaks down a melody into overlapping motifs of three notes which form two pitch intervals, and plots the first interval horizontally and the second vertically. A melody square, differently put, shows the frequency of pitch interval bigrams. This way of representing melodic motifs immediately highlights differences between corpora, but also suggests some interesting generalizations.
 
+
 -----
 
 
-Python setup
-------------
+Repository structure
+--------------------
+
+To do
+
+
+Setup
+-----
 
 You can find the Python version used in `.python-version` and all dependencies are listed in `requirements.txt`. If you use pyenv and venv to manage python versions and virtual environments, do the following:
 
