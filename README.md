@@ -5,8 +5,8 @@ Data and code for the project "Melody squares", an interlude in my PhD thesis.
 
 ------
 
-<img src="figures/figure-observations/melody-squares-observations.jpg?raw=true" width="800" 
-    title="Melody squares highlight which melodic motifs are common and which are rare in multiple corpora.">
+<img src="figures/figure-melody-square/figure-melody-square.jpg?raw=true" width="800" 
+    title="Melody squares highlight which melodic motifs are common and which are rare in a corpus of melodies.">
 
 
 
